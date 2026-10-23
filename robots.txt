@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baysidepools.raivyn.io/sitemap.xml
